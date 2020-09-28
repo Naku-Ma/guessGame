@@ -25,13 +25,15 @@ The Guess Number Game was build to apply my knowledge of learning Javascript, HT
 ## How to Play
 
 You have to type numbers between 1 and 100, otherwise it will be notify for out of ranges and references, when you've hit the numbers, the results will shows and telling you that if you win or not.
-Here the response you probably met.
-a. "Super Awesome! You got it in ... Guess" for 1x tries.
-b. "Yeay! You made it in ... Guesses" for 1 - 5 Guesses.
-c. "Nice! You got it in...GUesses " for 6 - 10 guesses.
-d. "Better later than never!" for up to 10 guesses.
 
-Check this out: [guessGame]()
+Here the response you probably met.
+
+- "Super Awesome! You got it in ... Guess" for 1x tries.
+- "Yeay! You made it in ... Guesses" for 1 - 5 Guesses.
+- "Nice! You got it in...GUesses " for 6 - 10 guesses.
+- "Better later than never!" for up to 10 guesses.
+
+Check this out: [guessGame](https://naku-ma.github.io/guessGame/)
 
 ## Technologies
 
