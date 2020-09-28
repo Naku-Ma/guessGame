@@ -33,6 +33,8 @@ Here the response you probably met.
 - "Nice! You got it in...GUesses " for 6 - 10 guesses.
 - "Better later than never!" for up to 10 guesses.
 
+You also can use "enter" to check the Guess and "Esc" to restart the Game
+
 Check this out: [guessGame](https://naku-ma.github.io/guessGame/)
 
 ## Technologies
