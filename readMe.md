@@ -35,7 +35,7 @@ Here the response you probably met.
 
 You also can use "enter" to check the Guess and "Esc" to restart the Game
 
-Check this out: [guessGame](https://naku-ma.github.io/guessGame/)
+Check this out: [guessGame](https://nakullio.github.io/guessGame/)
 
 ## Technologies
 
